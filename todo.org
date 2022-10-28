@@ -30,7 +30,11 @@ https://lispcookbook.github.io/cl-cookbook/packages.html
 *** DONE Get a CL Project going
 CLOSED: [2022-10-28 Fr 10:43]
 
-*** TODO Find a graphics (2d) library to use and add dependencies to package
+*** DONE Find a graphics (2d) library to use and add dependencies to package
+CLOSED: [2022-10-28 Fri 11:53]
+
+Going with cl-glfw3.  Switched to ccl as sbcl somehow has a problem when
+running graphics code from emacs.
 
 ** TODO The beginning
 

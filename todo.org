@@ -1,0 +1,36 @@
+#+title: Todo
+
+* Game idea
+
+Tritops is some sort of a breakout style game.  It shows a equilateral triangle
+in the center which the user is able to turn left and right.
+
+The triangle ia surrounded by arcs of different legths.  These are colored differently.
+
+The goal of the game is to remove all arcs.
+
+The mechanics are such that the ball:
+- deflects from the triangle's sides
+
+** Key Princliples
+
+- Get something on the screen, fast
+- Get user interaction going
+- Don't try to get fancy
+
+
+* Code
+
+Get code done.
+
+** TODO Setup
+
+*** TODO Get a CL Project going
+
+
+** TODO The beginning
+
+*** TODO Render a triangle in the center of the screen
+
+
+*** TODO Have the triangle turn left and right based on user input

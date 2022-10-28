@@ -23,10 +23,14 @@ The mechanics are such that the ball:
 
 Get code done.
 
-** TODO Setup
+** INPROGRESS Setup
 
-*** TODO Get a CL Project going
+https://lispcookbook.github.io/cl-cookbook/packages.html
 
+*** DONE Get a CL Project going
+CLOSED: [2022-10-28 Fr 10:43]
+
+*** TODO Find a graphics (2d) library to use and add dependencies to package
 
 ** TODO The beginning
 
